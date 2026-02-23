@@ -1,2 +1,7 @@
-# Python-Projects
-This repository conatins projects that are written and developed using python.It has many projects related to data analytics.
+# Hate-speech-project
+
+This project is about processing the tweets and detecting the nature of the speech.
+
+Here we used Natural Language processing and regular expressions to tokenise the words.
+
+After tokenising them we need find the level of hate in the text
